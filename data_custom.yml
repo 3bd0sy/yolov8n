@@ -1,4 +1,4 @@
-train: "C:\\training_traffic\\train"
-val: "C:\\training_traffic\\val"
-nc: 4
+train: "/content/yolov8n/train" # path to your 
+val: "/content/yolov8n/val"
+nc: 4 # number of classes
 names: ["car","barrier","green","red"]
