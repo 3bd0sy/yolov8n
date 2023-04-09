@@ -1,0 +1,4 @@
+train: "C:\\training_traffic\\train"
+val: "C:\\training_traffic\\val"
+nc: 4
+names: ["car","barrier","green","red"]

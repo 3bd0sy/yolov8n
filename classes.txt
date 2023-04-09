@@ -1,0 +1,4 @@
+car
+barrier
+green
+red
